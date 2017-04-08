@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">看十条</string>
+    <string name="name_hint">输入账号</string>
+    <string name="pwd_hint">输入密码</string>
+    <string name="describe_hint">描述自己吧</string>
+    <string name="email_hint">输入邮箱</string>
+    <string name="phone_hint">输入号码</string>
+
+</resources>
